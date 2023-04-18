@@ -1,0 +1,8 @@
+# colors = ["red"]
+# if colors: #how to check if a list is empty
+#     for color in colors:
+#         print ( color + " is beautiful!")
+# else:
+#     print ("We need some color!!")
+
+= ("Please enter your age to see what your entry fee will be:")
